@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hca6js.cnkitabos.ink/sitemap.xml
